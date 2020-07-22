@@ -1,0 +1,73 @@
+body{
+    font-family: 'Arvo', serif;
+}
+
+.height{
+    min-height: 100vh;
+} 
+
+.title-underline-1{
+    width: 200px;
+    height: 5px;
+}
+.title-underline-2{
+    width: 190px;
+    height: 5px;
+}
+.title-underline-3{
+    width: 270px;
+    height: 5px;
+}
+.title-underline-4{
+    width: 160px;
+    height: 5px;
+}
+.title-underline-5{
+    width: 290px;
+    height: 5px;
+}
+.title-underline-6{
+    width: 350px;
+    height: 5px;
+}
+.title-underline-7{
+    width: 240px;
+    height: 5px;
+}
+.title-underline-8{
+    width: 175px;
+    height: 5px;
+}
+.title-underline-9{
+    width: 190px;
+    height: 5px;
+}
+.title-underline-10{
+    width: 175px;
+    height: 5px;
+}
+.title-underline-11{
+    width: 156px;
+    height: 5px;
+}
+
+.height-80{
+    min-height: 70vh;
+}
+
+.about-image{
+    background: url(../images/66435161_1038067746399412_9197884897761427456_n.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#filler , #progress{
+    background: linear-gradient(to bottom, rgba(0,0,0,0.5),rgba(0,0,0,0.9)) ,url(../images/66435161_1038067746399412_9197884897761427456_n.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
